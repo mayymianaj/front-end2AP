@@ -1,7 +1,17 @@
 body{
 margin: 0;
 padding: 0;
-background-color:coral
+background-color:rgb(221, 170, 94)
+}
+header,footer{
+
+    width: 100%;
+    background-color: chocolate;
+}
+header{
+    height: 15vh;
 }
 
-
+footer{
+    height: 5vh;
+}

@@ -15,6 +15,15 @@ header{
 footer{
     height: 5vh;
 }
-contPrincipal{
-    display: flex;
+.contPrincipal{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap 5%;
+    h3{
+        font-size: 20px;
+        font-family:'arial';
+        color: rgb(110, 167, 216)
+        text-alline: right;
+    ;
+    }
 }
